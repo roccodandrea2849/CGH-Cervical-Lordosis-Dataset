@@ -24,7 +24,7 @@ De-identified clinical dataset (n = 108) of C2–C7 absolute rotational angle (A
 This dataset is released under the CC0 1.0 Universal license (public domain dedication). See LICENSE.
 
 ## How to cite
-Dandrea Chiropractic; Dandrea, R.M. CGH-Cervical-Lordosis-Dataset (Version 1.0). [Zenodo DOI]. 2026.
+Dandrea Chiropractic; Dandrea, R.M. CGH-Cervical-Lordosis-Dataset (Version 1.0). https://doi.org/10.5281/zenodo.24073543. 2026.
 
 ## Contact
 [Contact for questions about the dataset]
